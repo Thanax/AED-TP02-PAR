@@ -1,0 +1,23 @@
+#include <iostream>
+
+/*Gonzalo Martin Lucena K1051
+/*22/04/2015
+/*Tp Nº 2 "Numero Par" Algoritmos y Estructura de Datos, Le pide al usuario que ingrese un numero par y confirma 
+/*que lo sea
+
+int main()
+{
+    int par;
+    std::cout << par << " Ingrese un numero par: \n";
+    std::cin >> par;
+    if ( par % 2 == 0 )
+    {
+        std::cout << par << " es par ";
+    }
+        else
+        {
+        std::cout <<" fallo, increible, era tan simple y fallo, deberia sentirse avergonzado ";
+        }
+    return 0;
+}
+
