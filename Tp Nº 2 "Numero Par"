@@ -1,9 +1,9 @@
-#include <iostream>
-
 /*Gonzalo Martin Lucena K1051
 /*22/04/2015
 /*Tp Nº 2 "Numero Par" Algoritmos y Estructura de Datos, Le pide al usuario que ingrese un numero par y confirma 
 /*que lo sea
+
+#include <iostream>
 
 int main()
 {
